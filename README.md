@@ -1,6 +1,6 @@
 # Npm-Package-Lifeline
 
-Problem Statement - To detect depricated packages in the NPM repository
+Problem Statement - To detect deprecated packages in the NPM repository
 
 
 Solution - Collect data from npm package repository
